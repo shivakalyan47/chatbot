@@ -1,7 +1,7 @@
 import streamlit as st
 from chat import get_gemini_response
 
-# Page Config with rich title and layout
+# Page Config with rich title and 
 st.set_page_config(
     page_title="Engineering Graphics Assistant | BMS College",
     page_icon="📐",
